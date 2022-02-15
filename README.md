@@ -1,5 +1,5 @@
-<li><a href="#searching">searhing</a></li>
-<li><a href="#sequential seaarchin">sequential seaarching</a></li>
+<li><a href="#Searching">Searching</a></li>
+<li><a href="#Sequential Search">Sequential Search</a></li>
 <li><a href="#binary searching">binary searching</a></li>
 <h2 id="Searching">Searching</h2>
 searching adalah  algoritma yang menerima sebuah kata kunci dan dengan langkah-langkah tertentu akan mencari rekaman dengan kata kunci tersebut. Setelah proses pencarian dilaksanakan, akan diperoleh salah satu dari dua kemungkinan, yaitu data yang dicari ditemukan atau tidak ditemukan.
