@@ -1,5 +1,5 @@
 # Searching
 1.Searching
-  -Sequential Searching
-  -Binar Seacrh
+  #-Sequential Searching
+  #-Binar Seacrh
   
